@@ -1,7 +1,7 @@
 import sys
 sys.path.insert(0, 'package/')
 
-import os, pygame, sys, time, random, copy
+import os, pygame, time, random, copy
 from recordtype import recordtype
 
 os.environ['SDL_AUDIODRIVER'] = 'dsp'
