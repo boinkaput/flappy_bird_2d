@@ -1,4 +1,4 @@
-# Flappy Bird Game
+# Flappy Bird
 
 This is a simple implementation of the Flappy Bird game using Python. The game is built using the Pygame library and can be installed and run on your local machine.
 
